@@ -1,7 +1,7 @@
 # BoardBoost
 Сайт электронной торговли с блогом по теме клавиатур
 
-# Установка
+# Установка зависимостей
 npm install react-router-dom<br />
 npm install react-bootstrap<br />
 npm install @fortawesome/react-fontawesome @fortawesome/free-solid-svg-icons<br />
