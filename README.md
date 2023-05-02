@@ -11,5 +11,7 @@ npm install axios<br />
 npm install react-content-loader<br />
 
 # Запуск
-Каталог frontend: npm start
+Каталог frontend: npm start<br />
 Каталог backend: node server.js
+<br /><br />
+Сайт доступен по https://localhost:3000
